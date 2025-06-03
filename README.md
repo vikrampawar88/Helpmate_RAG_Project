@@ -1,6 +1,5 @@
 # HelpMate – RAG-Powered Insurance Query Bot
 
-A Capstone Project for GenAI UpGrad x IIITB  
 *Effortlessly navigate insurance documents with Retrieval-Augmented Generation (RAG) and OpenAI’s GPT-based language models.*
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
